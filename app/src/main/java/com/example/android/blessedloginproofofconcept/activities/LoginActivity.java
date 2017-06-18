@@ -62,7 +62,6 @@ import static android.Manifest.permission.READ_CONTACTS;
 public class LoginActivity extends AppCompatActivity implements OnClickListener {
 
 
-
     private ViewPager viewPager;
     private LoginActivity.MyViewPagerAdapter myViewPagerAdapter;
     private int[] layouts;
