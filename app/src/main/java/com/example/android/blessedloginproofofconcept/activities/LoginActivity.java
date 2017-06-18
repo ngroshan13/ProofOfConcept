@@ -63,6 +63,8 @@ public class LoginActivity extends AppCompatActivity implements OnClickListener 
 
     //test comment commit change
 
+    //test comment commit change 2
+
 
     private ViewPager viewPager;
     private LoginActivity.MyViewPagerAdapter myViewPagerAdapter;
