@@ -61,11 +61,6 @@ import static android.Manifest.permission.READ_CONTACTS;
  */
 public class LoginActivity extends AppCompatActivity implements OnClickListener {
 
-    //test comment commit change
-
-    //test comment commit change 2
-
-    //test commit change 3
 
 
     private ViewPager viewPager;
